@@ -128,7 +128,6 @@
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmouradealmeida&show_icons=true&locale=en&layout=compact" alt="lucasmouradealmeida" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmouradealmeida&show_icons=true&locale=en" alt="lucasmouradealmeida" />
 </div>
 
 ---
