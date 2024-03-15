@@ -72,6 +72,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 <br>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/65f47802275ac16edcb26418?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65f47802275ac16edcb26418?variant=dark" alt="roadmap.sh"/></a>
 <br/>
 
